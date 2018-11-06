@@ -3,6 +3,10 @@
 # BME280 TEMPERATURE APP
 Implementing the BME280 temperature sensor with a Pi 3
 
+
+## 6/11/2018 
+today is the PCB milestone but my pcb and i dont have my pcb yet due to thr fact it was taken by another collegue since im not the only person with my sensor or it isn't ready yet. so i am going to work on still configuring my raspberry pi , and in regards to my [budget] 
+
 ## 1/11/2018 ## 3/11/2018
 solddering of my bme 280 sensor  and also changing the i2c address .
 
@@ -16,6 +20,7 @@ cretaed the PCB for my sensor on the fritzing app and sent it to the prototyping
 ## 23/10/2018 
 sensor hasn't arrived yet and no changes in finances. 
 programmed my raspberry pi to be able to connect to the school internet via wired connection rather than wireless and also was able to create my breadboard circuit on the fritzing tool 
+![Breadboard](https://github.com/sam9dadet/CENG-317/blob/master/breadboard%20.jpg)
 
 
 ## 16/10/2018 - UML diagram

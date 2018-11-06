@@ -3,6 +3,10 @@
 # BME280 TEMPERATURE APP
 Implementing the BME280 temperature sensor with a Pi 3
 
+
+## 6/11/2018 
+today is the PCB milestone but my pcb and i dont have my pcb yet due to thr fact it was taken by another collegue since im not the only person with my sensor or it isn't ready yet. so i am going to work on still configuring my raspberry pi , and in regards to my [budget] 
+
 ## 1/11/2018 ## 3/11/2018
 solddering of my bme 280 sensor  and also changing the i2c address .
 

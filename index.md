@@ -20,7 +20,7 @@ cretaed the PCB for my sensor on the fritzing app and sent it to the prototyping
 ## 23/10/2018 
 sensor hasn't arrived yet and no changes in finances. 
 programmed my raspberry pi to be able to connect to the school internet via wired connection rather than wireless and also was able to create my breadboard circuit on the fritzing tool 
-![Breadboard](https://github.com/sam9dadet/CENG-317/blob/master/breadboard%20.jpg)
+![Breadboard](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/breadboard%20.jpg)
 
 
 ## 16/10/2018 - UML diagram

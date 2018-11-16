@@ -31,7 +31,7 @@ soldering of my bme 280 sensor  and also changing the i2c address .
 
 ## 31/11/2018
 sensor finally arrived , which has set me back by 3 weeks . but with many commited hours in the library i was able to catch up and also just a few adjustment to my project timeline. please see link below
-[project schedule]((https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Proposal(Samuel%20Dadet%20).xlsx)
+[project schedule](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Proposal(Samuel%20Dadet%20).xlsx)
 ![Breadboard](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/breadboard%20.jpg)
 
 ## 30/10/2018 
@@ -63,7 +63,7 @@ BME 280 SENSOR:()
 micro sd card:()
 microUSB pi Power Suppy 5.1V DC: ()
 
-[Receipt}(https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/order%20details.docx)
+[Receipt](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/order%20details.docx)
 
 
 

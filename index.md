@@ -3,8 +3,29 @@
 # BME280 TEMPERATURE APP
 Implementing the BME280 temperature sensor with a Pi 3
 
-#15/11/2018
+##26/11/2018
+these are the designs of the casing of my pi ![coreldraw]
+the pdf version can be found here 
+you can access the corel draw files in the folder.
+
+##20/11/2018 
+
+Soldered my ![pcb] to my raspberry pi and also powered up my pi . I ran this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) code which took me days to find because all other ones failed to work for me.
+
+
+this is the output of the readings i got when i ran the above code againt my sensor 
+![sensor]
+
+
+
+
+
+##15/11/2018
 Vlad eventually printed out my pcb find attachged image below
+
+[Budget] (https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Budget%20for%20BME280%20Sensor.xlsx) remains the same hasn't changed.
+
+[Project Schedule] () still remains the same as i am on schedule as i have always been. 
 
 
 ![pcb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20image%20.jpg)
@@ -31,7 +52,7 @@ after i was done soldering, i  completed a milestone which was viewing the i2c a
 ![i2c](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/i2c.jpg)
 
 
-## 31/11/2018
+## 31/10/2018
 Sensor finally arrived , which has set me back by 3 weeks . but with many commited hours in the library i was able to catch up and also just a few adjustment to my project timeline. please see link below
 [project schedule](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Proposal(Samuel%20Dadet%20).xlsx)
 

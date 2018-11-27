@@ -10,11 +10,11 @@ you can access the corel draw files in the folder.
 
 ## 20/11/2018 
 
-Soldered my ![pcb] to my raspberry pi and also powered up my pi . I ran this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) code which took me days to find because all other ones failed to work for me.
+Soldered my ![pcb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20soldered.jpg) to my raspberry pi and also powered up my pi . I ran this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) code which took me days to find because all other ones failed to work for me.
 
 
 this is the output of the readings i got when i ran the above code againt my sensor 
-![sensor]
+![sensor]()
 
 
 

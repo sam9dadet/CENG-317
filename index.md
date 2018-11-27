@@ -60,7 +60,7 @@ Today in class was suppose to be the etching  of the pcb onto the raspberry pi b
 
 I was able to solder my bme 280 sensor at the prototyping lab with the help of kelly . I have never soldered anything in my entire life and he was of great assistance, and he also gave me some good soldering tips. 
 
-after i was done soldering, i  completed a milestone which was viewing the i2c address of your sensor. mind you i was weeks behing due to the fact that my sensor hasnt arrived but with the help of [this website](http://cactus.io/hookups/sensors/barometric/bme280/hookup-arduino-to-bme280-barometric-pressure-sensor) .
+after i was done soldering, i  completed a milestone which was viewing the i2c address of your sensor. mind you i was weeks behing due to the fact that my sensor hasnt arrived but with the help of [this website](http://cactus.io/hookups/sensors/barometric/bme280/hookup-arduino-to-bme280-barometric-pressure-sensor) i was able to catch up to my peers.
 
 ![i2c](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/i2c.jpg)
 

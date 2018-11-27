@@ -36,9 +36,9 @@ And for my [project schedule](https://github.com/sam9dadet/CENG-317/blob/master/
 ## 15/11/2018
 Vlad eventually printed out my pcb please find attached image below
 
-[Budget] (https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Budget%20for%20BME280%20Sensor.xlsx) remains the same hasn't changed.
+[Budget](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Budget%20for%20BME280%20Sensor.xlsx) remains the same hasn't changed.
 
-[Project Schedule] (https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Project%20Schedule.jpg) still remains the same as i am on schedule as i have always been. 
+[Project Schedule](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Project%20Schedule.jpg) still remains the same as i am on schedule as i have always been. 
 
 
 ![pcb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20image%20.jpg)

@@ -1,6 +1,6 @@
 # CENG-317
 
-# BME280 TEMPERATURE APP
+# BME280 TEMPERATURE SENSOR
 Implementing the BME280 temperature sensor with a Pi 3
 
 ## 26/11/2018

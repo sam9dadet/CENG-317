@@ -4,14 +4,15 @@
 Implementing the BME280 temperature sensor with a Pi 3
 
 ## 26/11/2018
-these are the designs of the casing of my pi ![coreldraw]
+
+## DESIGN
 the pdf version can be found [here](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Samuel%20Dadet(corel%20draw).pdf) 
 
 you can access the corel draw files in [this folder](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Samuel%20Dadet.zip)
 
 [Budget](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Budget%20for%20BME280%20Sensor.xlsx) still remains the same no changes has been made, no additional items has been bought and no items has been taken off.
 
-as for my [schedule](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Project%20Schedule.jpg) i am on track .
+And for my [schedule](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Project%20Schedule.jpg) i am on track .
 
 
 ## 20/11/2018 

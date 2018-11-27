@@ -8,6 +8,8 @@ Implementing the BME280 temperature sensor with a Pi 3
 Link to my presentation can be found [here](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/BME%20280%20Sensor%20(Presentation).pptx)
 
 ## DESIGN
+
+ this is the image of my ![enclosure](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/enclosure.jpg)
 the pdf version can be found [here](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Samuel%20Dadet(corel%20draw).pdf) 
 
 you can access the corel draw files in [this folder](https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Samuel%20Dadet.zip)

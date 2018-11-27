@@ -3,12 +3,12 @@
 # BME280 TEMPERATURE APP
 Implementing the BME280 temperature sensor with a Pi 3
 
-##26/11/2018
+## 26/11/2018
 these are the designs of the casing of my pi ![coreldraw]
 the pdf version can be found here 
 you can access the corel draw files in the folder.
 
-##20/11/2018 
+## 20/11/2018 
 
 Soldered my ![pcb] to my raspberry pi and also powered up my pi . I ran this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) code which took me days to find because all other ones failed to work for me.
 
@@ -20,7 +20,7 @@ this is the output of the readings i got when i ran the above code againt my sen
 
 
 
-##15/11/2018
+## 15/11/2018
 Vlad eventually printed out my pcb find attachged image below
 
 [Budget] (https://github.com/sam9dadet/CENG-317/blob/master/BME280%20image%20files%20and%20link/Budget%20for%20BME280%20Sensor.xlsx) remains the same hasn't changed.
@@ -30,7 +30,7 @@ Vlad eventually printed out my pcb find attachged image below
 
 ![pcb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20image%20.jpg)
 
-##13/11/2018
+## 13/11/2018
 Today was suppose to be the when we run our sensor on the terminal to output it's intended data but i tried testing my sensor with various python codes relating to the bme 280 [bme.py](https://xdevs.com/guide/thp_rpi/) but i couldnt get it to work .
 
 i even tried to run a code from the sensehat [sensehat_bme](https://github.com/six0four/StudentSenseHat/blob/master/firmware/BME280.py) which required editing of the code since the code comprised of various other sensors . i did that but still couldnt get it to work . 

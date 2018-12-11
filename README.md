@@ -16,7 +16,7 @@ Implementing the BME280 temperature sensor with a Pi 3
 9. [Production ](#Production-Testing)
 
 
-[Image text](https://raw.githubusercontent.com/)
+![Image text](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/enclosure.jpg)
 
 ## Introduction 
 You have to make a project for your science class in  school or just looking for a hobby to do during the weekend then the BME 280 sensor is for you. 
@@ -121,7 +121,7 @@ This is the image of my raspberry pi , so for these next steps i'm going to deta
    ![pcbb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20soldered.jpg)
   
   
-  ##  Power Up
+  ## Power Up
   After connecting your soldered senor to the pi you would want to run a python code to read the output of your sensor .
   
   you can run this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) to test the output .

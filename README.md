@@ -53,7 +53,7 @@ the link to the budget, revealing detailed amount for each item can be found [he
 this project personally took me 15 week to do in a span of 3 hours each day and that's because it was technically an inclass project but doing this outside of school or as a hobby like i stated above, it should take you an average of a weekend pending if you havee all your parts and source code before starting.
 
 # Mechanical Assembly
-[image text](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/breadboard-rotated.jpg)
+![BreadBoard](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/breadboard-rotated.jpg)
 
 
 The steps i would be describing below would be very easy and simple to follow. 

@@ -27,7 +27,7 @@ The BME280 is a humidity, pressure and temperature sensor that has fast response
 Building a bme 280 below as follows:
 
 ## System Diagram
-[psuedo-image](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/PSUEDO%20CODE%20UML%20DIAGRAM.JPG)
+![psuedo-image](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/PSUEDO%20CODE%20UML%20DIAGRAM.JPG)
 
 
 ## Material/Budget

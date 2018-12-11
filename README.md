@@ -118,13 +118,16 @@ This is the image of my raspberry pi , so for these next steps i'm going to deta
    Again just like above you would have to do some soldering here and if you're not familair with soldering ill post a link to a  soldering video [here](https://www.youtube.com/watch?v=oqV2xU1fee8) please review this video.
    
    and here is the final output of how your sensor should look like on the pcb ( you would also need GPIO/HEADERS to avoid soldering directly onto your pi).
-   ![pcbb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20image%20.jpg)
+   ![pcbb](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20soldered.jpg)
   
   
   ##  Power Up
   After connecting your soldered senor to the pi you would want to run a python code to read the output of your sensor .
   
   you can run this [python script](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test) to test the output .
+  
+  your output should look like this. 
+  ![powerup](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/bmetestscreenshot.png)
 
 
 

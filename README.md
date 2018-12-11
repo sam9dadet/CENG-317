@@ -53,11 +53,18 @@ the link to the budget, revealing detailed amount for each item can be found [he
 this project personally took me 15 week to do in a span of 3 hours each day and that's because it was technically an inclass project but doing this outside of school or as a hobby like i stated above, it should take you an average of a weekend pending if you havee all your parts and source code before starting.
 
 # Mechanical Assembly
-![BreadBoard](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/breadboard-rotated.jpg)
+![raspberry pi](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/raspberry%20pi.jpg)
+This is the image of my raspberry pi , so for these next steps i'm going to detail it in very easy steps below so anyone can folow them.
 
+1.) get your raspberry pi
 
-The steps i would be describing below would be very easy and simple to follow. 
+2.) the sd card you bought, you would want to download the latest raspbian O.S on it. which can me found at [raspbian OS] (https://www.raspberrypi.org/downloads/raspbian/) installation guide is all availabel on the webite and it take minutes to set up . what you're looking for is the "Raspbian Stretch with desktop and recommended software".
 
+3.) insert the microsd card into the raspberry and power up (you would need a keyboard, mouse and a HDMI cord for display  for the next few steps) 
+  i) you would plug in the mouse and keyboard to the USB outlets of the raspberry pi and the HDMI from the raspberry pi to a TV or monitor screen to give you a graphic environment.
+  
+  ii.) altenatively you can configure the raspberry pinto use Ethernet for remote desktop connection. eradicating the use of a mouse, keyboard and hdmi cord every single time you want to use a raspberry pi.
+  
 ## Proposal/Scheduling
 Follow the link to see how long it took me to make this project. In the real world it should take a weekend to do this project, pending if and when you have all your parts, downloading your OS, made your PCB and your acrylic case. 
 

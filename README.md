@@ -33,13 +33,13 @@ Building a bme 280 below as follows:
 ## Material/Budget
 
 ## Items Required: 
-1.) Raspberry pi
-2.) BME 280 Sensor Adafruit or Sparkfun either works fine.
-3.) Breadboard
-4.)jumper wires 
-5.) micro sd card
-6.) RJ-45 Cable
-7.) acyclic enclosure (housing for your case)
+1. Raspberry pi
+2. BME 280 Sensor Adafruit or Sparkfun either works fine.
+3. Breadboard
+4.jumper wires 
+5. micro sd card
+6. RJ-45 Cable
+7. acyclic enclosure (housing for your case)
 
 # Budget
 The cost of this project was a dollar short of $180 CAD less than 200 dollars. thats a pretty decent amount for this type of project.

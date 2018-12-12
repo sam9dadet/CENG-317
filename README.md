@@ -7,7 +7,7 @@ Implementing the BME280 temperature sensor with a Pi 3
 ## Table of Contents
 1. [Build Instructions](#build-instructions)
 2. [System Diagram](#Introduction-using-a-system-diagram)
-3. [Material/Budget](#Materials/Budget)
+3. [Material/Budget](#Materials-Budget)
 4. [Time Commitment](#Time-Commitment)
 5. [Mechanical Assembly](#Mechanical-Assembly)
 6. [PCB](#PCB-Soldering)
@@ -30,7 +30,7 @@ Building a bme 280 below as follows:
 ![psuedo-image](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/PSUEDO%20CODE%20UML%20DIAGRAM.JPG)
 
 
-## Materials/Budget
+## Materials-Budget
 
 ## Items Required: 
 1. Raspberry pi

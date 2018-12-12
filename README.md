@@ -26,11 +26,11 @@ The BME280 is a humidity, pressure and temperature sensor that has fast response
 ## Build Instructions
 Building a bme 280 below as follows:
 
-## System Diagram
+## Introduction-using-a-system-diagram
 ![psuedo-image](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/PSUEDO%20CODE%20UML%20DIAGRAM.JPG)
 
 
-## Material/Budget
+## Bill-of-Materials/Budget
 
 ## Items Required: 
 1. Raspberry pi
@@ -114,7 +114,7 @@ This is the image of my raspberry pi , so for these next steps i'm going to deta
   ii) get your PCB printed and it should look similar to this. 
   ![pcb-sam](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/pcb%20image%20.jpg)
   
-  ## PCB
+  ## PCB-Soldering
    Again just like above you would have to do some soldering here and if you're not familair with soldering ill post a link to a  soldering video [here](https://www.youtube.com/watch?v=oqV2xU1fee8) please review this video.
    
    and here is the final output of how your sensor should look like on the pcb ( you would also need GPIO/HEADERS to avoid soldering directly onto your pi).

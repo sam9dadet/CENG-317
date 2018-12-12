@@ -13,7 +13,7 @@ Implementing the BME280 temperature sensor with a Pi 3
 6. [PCB](#PCB-Soldering)
 7. [Power Up](#Power-Up)
 8. [Unit Testing](#Unit-Testing)
-9. [Production ](#Production-Testing)
+9. [Production](#Production-Testing)
 
 
 ![Image text](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/enclosure.jpg)

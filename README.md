@@ -135,8 +135,51 @@ This is the image of my raspberry pi , so for these next steps i'm going to deta
 
  ## Unit Testing 
  
+ Follow these steps to get readings from your sensor.
+
+sudo apt-get update
+sudo apt-get upgrade
+
+##Python Script
+
+import time
+ 
+import board
+import busio
+import adafruit_bme280
+ 
+# Create library object using our Bus I2C port
+i2c = busio.I2C(board.SCL, board.SDA)
+bme280 = adafruit_bme280.Adafruit_BME280_I2C(i2c)
+ 
+# OR create library object using our Bus SPI port
+#spi = busio.SPI(board.SCK, board.MOSI, board.MISO)
+#bme_cs = digitalio.DigitalInOut(board.D10)
+#bme280 = adafruit_bme280.Adafruit_BME280_SPI(spi, bme_cs)
+ 
+# change this to match the location's pressure (hPa) at sea level
+bme280.sea_level_pressure = 1013.25
+ 
+while True:
+    print("\nTemperature: %0.1f C" % bme280.temperature)
+    print("Humidity: %0.1f %%" % bme280.humidity)
+    print("Pressure: %0.1f hPa" % bme280.pressure)
+    print("Altitude = %0.2f meters" % bme280.altitude)
+    time.sleep(2)
+    
+    
+    
+    
+   
+   
+   
+   # Final Testing
+   this is what the output should look like.
+   ![image](https://raw.githubusercontent.com/sam9dadet/CENG-317/master/BME280%20image%20files%20and%20link/bmetestscreenshot.png)
+    
  
  
+
  
  ## Production-Testing
   
@@ -146,9 +189,9 @@ This is the image of my raspberry pi , so for these next steps i'm going to deta
   
   ## References
   
-  Adafruit BME280 Humidity Barometric Pressure Temperature Sensor Breakout. (n.d.). Retrieved from [link] (https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test)
+  Adafruit BME280 Humidity Barometric Pressure Temperature Sensor Breakout. (n.d.). Retrieved from [link(https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test)
   
-  How to Access the Raspberry Pi Desktop with a Remote Desktop Connection. (2018, June 21). Retrieved from  [link] (http://www.circuitbasics.com/access-raspberry-pi-desktop-remote-connection/)
+  How to Access the Raspberry Pi Desktop with a Remote Desktop Connection. (2018, June 21). Retrieved from  [link](http://www.circuitbasics.com/access-raspberry-pi-desktop-remote-connection/)
   
   
   T., I. (n.d.). Retrieved from [link](https://xdevs.com/guide/thp_rpi/)

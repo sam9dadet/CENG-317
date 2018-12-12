@@ -189,7 +189,7 @@ while True:
   
   ## References
   
-  Adafruit BME280 Humidity Barometric Pressure Temperature Sensor Breakout. (n.d.). Retrieved from [link(https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test)
+  Adafruit BME280 Humidity Barometric Pressure Temperature Sensor Breakout. (n.d.). Retrieved from [link](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/python-circuitpython-test)
   
   How to Access the Raspberry Pi Desktop with a Remote Desktop Connection. (2018, June 21). Retrieved from  [link](http://www.circuitbasics.com/access-raspberry-pi-desktop-remote-connection/)
   
